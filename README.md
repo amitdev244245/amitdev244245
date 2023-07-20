@@ -75,6 +75,8 @@
     <strong>CRUD MERN &ensp; <a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/crud-mern">Repo</a></strong>
     &emsp; &emsp; &emsp; &emsp;
     <strong>MovieApp &ensp; <a href="https://amitdev244245.github.io/movie-app">Live</a> &nbsp; <a href="https://github.com/amitdev244245/movie-app">Repo</a></strong>
+    &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;
+    <strong>Calculator &ensp; <a href="https://amitdev244245.github.io/calculator">Live</a> &nbsp; <a href="https://github.com/amitdev244245/calculator">Repo</a></strong>
   </p>
   
   <p>
