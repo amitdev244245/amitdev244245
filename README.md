@@ -62,13 +62,38 @@
 
 <div>
   <h1>My Projects</h1>
-  <p><strong>Basic HTML/CSS Hosting &emsp; <a href="https://amitfortec21.github.io/dummy-test">Live</a> &emsp; <a href="https://github.com/amitfortec21/dummy-test">Repository</a></strong></p>
-  <p><strong>Basic ReactApp Hosting &emsp; <a href="https://amitfortec21.github.io/host-app">Live</a> &emsp; <a href="https://github.com/amitfortec21/host-app">Repository</a></strong></p>
-  <p><strong>Basic ViteApp Hosting &emsp; <a href="https://amitfortec21.github.io/hosting-vite">Live</a> &emsp; <a href="https://github.com/amitfortec21/hosting-vite">Repository</a></strong></p>
-  <p><strong>MovieApp &emsp; <a href="https://amitdev244245.github.io/movie-app">Live</a> &emsp; <a href="https://github.com/amitdev244245/movie-app">Repository</a></strong></p>
-  <p><strong>CRUD MERN &emsp; <a href="">Live</a> &emsp; <a href="https://github.com/amitfortec21/crud-mern">Repository</a></strong></p>
-  <p><strong>Quiz MERN &emsp; <a href="">Live</a> &emsp; <a href="https://github.com/amitfortec21/quiz-mern">Repository</a></strong></p>
-  <p><strong>CMS Admin MERN &emsp; <a href="">Live</a> &emsp; <a href="https://github.com/amitfortec21/cms-admin-mern">Repository</a></strong></p>
-  <p><strong>Voting MERN &emsp; <a href="">Live</a> &emsp; <a href="https://github.com/amitfortec21/voting-mern">Repository</a></strong></p>
-  <p><strong>Instagram Clone MERN &emsp; <a href="">Live</a> &emsp; <a href="https://github.com/amitfortec21/instagram-clone-mern">Repository</a></strong></p>
+  
+  <h3>
+    <strong>MERN Projects</strong>
+    &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;
+    <strong>React Projects</strong>
+    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+    <strong>JavaScript Projects</strong>
+  </h3>
+  
+  <p>
+    <strong>CRUD MERN &ensp; <a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/crud-mern">Repo</a></strong>
+    &emsp; &emsp; &emsp; &emsp;
+    <strong>MovieApp &ensp; <a href="https://amitdev244245.github.io/movie-app">Live</a> &nbsp; <a href="https://github.com/amitdev244245/movie-app">Repo</a></strong>
+  </p>
+  
+  <p>
+    <strong>Quiz MERN &ensp; <a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/quiz-mern">Repo</a></strong>
+    &emsp; &emsp; &emsp; &emsp; &ensp;
+    <strong>ReactApp Hosting &ensp; <a href="https://amitfortec21.github.io/host-app">Live</a> &nbsp; <a href="https://github.com/amitfortec21/host-app">Repo</a></strong>
+  </p>
+  
+  <p>
+    <strong>CMS MERN &ensp; <a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/cms-admin-mern">Repo</a></strong>
+    &emsp; &emsp; &emsp; &emsp; &ensp;
+    <strong>HTML/CSS Hosting &ensp; <a href="https://amitfortec21.github.io/dummy-test">Live</a> &nbsp; <a href="https://github.com/amitfortec21/dummy-test">Repo</a></strong>
+  </p>
+
+  <p>
+    <strong>Voting MERN &ensp; <a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/voting-mern">Repo</a></strong>
+    &emsp; &emsp; &emsp; &emsp;
+    <strong>ViteApp Hosting &ensp; <a href="https://amitfortec21.github.io/hosting-vite">Live</a> &nbsp; <a href="https://github.com/amitfortec21/hosting-vite">Repo</a></strong>
+  </p>
+  
+  <p><strong>Insta Clone MERN &ensp; <a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/instagram-clone-mern">Repo</a></strong></p>
 </div>
