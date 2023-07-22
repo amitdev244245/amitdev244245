@@ -1,12 +1,11 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/amit244245/" target="_blank"> Amit Sharma </a></h1>
-<h3 align="center"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, there</h1>
+<h3 align="center">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=30&duration=3000&pause=1000&color=0357F7&vCenter=true&width=435&lines=Hey!+Its+Amit+Sharma;Full+Stack+Developer" alt="Typing SVG" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Major Skills **MongoDB, Express, ReactJS, NodeJS, Docker**
+- 💬 Major Skills **MongoDB, Express, ReactJS, NodeJS, NextJS**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-amit244245.web.app/" target="_blank">Portfolio</a>**
-
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -68,6 +67,6 @@
   <p><strong><a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/crud-mern">Repo</a> &emsp; CRUD MERN</strong></p>
   <p><strong><a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/quiz-mern">Repo</a> &emsp; Quiz MERN</strong></p>
   <p><strong><a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/cms-admin-mern">Repo</a> &emsp; CMS Admin MERN</strong></p>
-  <p><strong><a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/voting-mern">Repo</a></strong> &emsp; Voting MERN</p>
+  <p><strong><a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/voting-mern">Repo</a> &emsp; Voting MERN</strong></p>
   <p><strong><a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/instagram-clone-mern">Repo</a> &emsp; Instagram Clone MERN</strong></p>
 </div>
