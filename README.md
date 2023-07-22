@@ -63,6 +63,7 @@
 <div>
   <h1>My Projects</h1>
   <p><strong><a href="https://amitdev244245.github.io/calculator">Live</a> &nbsp; <a href="https://github.com/amitdev244245/calculator">Repo</a> &emsp; Calculator</strong></p>
+  <p><strong><a href="https://amitdev244245.github.io/profile-card">Live</a> &nbsp; <a href="https://github.com/amitdev244245/profile-card">Repo</a> &emsp; Profile Card</strong></p>
   <p><strong><a href="https://amitdev244245.github.io/movie-app">Live</a> &nbsp; <a href="https://github.com/amitdev244245/movie-app">Repo</a> &emsp; MovieApp</strong></p>
   <p><strong><a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/crud-mern">Repo</a> &emsp; CRUD MERN</strong></p>
   <p><strong><a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/quiz-mern">Repo</a> &emsp; Quiz MERN</strong></p>
