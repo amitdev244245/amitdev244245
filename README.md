@@ -61,10 +61,10 @@
 
 <div>
   <h1>My Projects</h1>
-  <p><strong><a href="https://miniprj1.netlify.app">Live</a> &nbsp; <a href="https://github.com/amitdev244245/calculator">Repo</a> &emsp; Calculator</strong></p>
-  <p><strong><a href="https://miniprj2.netlify.app">Live</a> &nbsp; <a href="https://github.com/amitdev244245/profile-card">Repo</a> &emsp; Profile Card</strong></p>
-  <p><strong><a href="https://miniprj3.netlify.app/">Live</a> &nbsp; <a href="https://github.com/amitdev244245/credit-card-form">Repo</a> &emsp; Credit Card Form</strong></p>
-  <p><strong><a href="https://amitdev244245.github.io/movie-app">Live</a> &nbsp; <a href="https://github.com/amitdev244245/movie-app">Repo</a> &emsp; MovieApp</strong></p>
+  <p><strong><a href="https://miniprj1.netlify.app" target="_blank">Live</a> &nbsp; <a href="https://github.com/amitdev244245/calculator">Repo</a> &emsp; Calculator</strong></p>
+  <p><strong><a href="https://miniprj2.netlify.app" target="_blank">Live</a> &nbsp; <a href="https://github.com/amitdev244245/profile-card">Repo</a> &emsp; Profile Card</strong></p>
+  <p><strong><a href="https://miniprj3.netlify.app" target="_blank">Live</a> &nbsp; <a href="https://github.com/amitdev244245/credit-card-form">Repo</a> &emsp; Credit Card Form</strong></p>
+  <p><strong><a href="https://amitdev244245.github.io/movie-app" target="_blank">Live</a> &nbsp; <a href="https://github.com/amitdev244245/movie-app">Repo</a> &emsp; MovieApp</strong></p>
   <p><strong><a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/crud-mern">Repo</a> &emsp; CRUD MERN</strong></p>
   <p><strong><a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/quiz-mern">Repo</a> &emsp; Quiz MERN</strong></p>
   <p><strong><a href="">Live</a> &nbsp; <a href="https://github.com/amitfortec21/cms-admin-mern">Repo</a> &emsp; CMS Admin MERN</strong></p>
